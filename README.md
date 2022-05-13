@@ -15,9 +15,9 @@ and we appreciate all of them :
 
 Contributions should be under the terms of the MIT license [&lt;LICENSE&gt;](LICENSE).
 
-## How to build
+# How to build
 
-# Requirements
+## Requirements
 JDK 14.0.1 was used for this project
 
 
