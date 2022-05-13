@@ -1,7 +1,18 @@
 # How to build
+
+## Requirements
+JDK 14.0.1 was used for this project
+
+
+
 ## Clone this repo
-git clone https://github.com/Momo1631/Hospital-Management-System.git
-cd ContributionProject
+git clone https://github.com/Momo1631/Hospital-Management-System.git cd Hospital-Management-System
+
+
+## Importing the project
+Imported it in Eclipse IDE or any other Java IDE.
+
+
 
 
 
