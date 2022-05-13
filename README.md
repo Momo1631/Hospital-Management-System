@@ -23,7 +23,7 @@ JDK 14.0.1 was used for this project
 
 
 ## Clone this repo
-git clone https://github.com/Momo1631/Hospital-Management-System.git
+git clone https://github.com/Momo1631/Hospital-Management-System.git cd Hospital-Management-System
 
 
 ## Importing the project
